@@ -21,6 +21,7 @@ dependencies:
   - hvplot
   - matplotlib-base
   - netcdf4
+  - pip
   - pint-xarray
   - pydap
   - python-graphviz
@@ -29,3 +30,5 @@ dependencies:
   - scipy
   - xarray
   - zarr
+  - pip:
+      - sphinx-exercise
