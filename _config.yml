@@ -60,3 +60,6 @@ bibtex_bibfiles:
 sphinx:
   config:
     bibtex_reference_style: author_year # or label, super, \supercite
+  extra_extensions:
+    - sphinx_exercise
+    - sphinx_togglebutton
